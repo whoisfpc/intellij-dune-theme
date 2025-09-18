@@ -1141,6 +1141,7 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
+                <option name="BACKGROUND" value="e9e7e0"/>
                 <option name="ERROR_STRIPE_COLOR" value="e1d8cf"/>
             </value>
         </option>
